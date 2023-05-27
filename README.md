@@ -2,6 +2,15 @@
 
 **Paper Link: https://doi.org/10.48550/arXiv.2304.14484**
 
+# Results (OriCon3D):
+VGG19 Ouput            |  MOBILENETv2 Ouput          |  EFFICIENTNETv2_s Ouput    
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/DhyeyR-007/OriCon3D/blob/main/Gifs%20and%20videos/VGG_gif.gif)  |  ![](https://github.com/DhyeyR-007/OriCon3D/blob/main/Gifs%20and%20videos/MOBILE_gif.gif) | ![](https://github.com/DhyeyR-007/OriCon3D/blob/main/Gifs%20and%20videos/EFF_gif.gif)
+
+  VGG19 Architecture                    | MOBILENETv2 Architecture | EFFICIENTNETv2_s Architecture
+:-------------------------:|:-------------------------:|:-------------------------:
+<img width="847" alt="image" src="https://github.com/DhyeyR-007/OriCon3D/assets/86003669/5e0fbe29-6744-48ab-a2bc-c32eb651781f"> | <img width="847" alt="image" src="https://github.com/DhyeyR-007/OriCon3D/assets/86003669/b686ec3c-92a0-4135-91c8-53103d8a2895"> | <img width="847" alt="image" src="https://github.com/DhyeyR-007/OriCon3D/assets/86003669/4cd424be-e5e7-4c0d-92d9-c678a1d720ba">
+
 ## General Information
 Here:\
 Any file with name or accrediation
@@ -38,33 +47,4 @@ Results are divided into:
 - We develop correlations between the oreintation and confidence aspects of our multibin architecture for making the algorithm light weight:
 
 <img width="600" alt="image" src="https://github.com/DhyeyR-007/OriCon3D/assets/86003669/24df1b30-cf20-42b5-a8d1-ae1ac3b3c360">
-
-
-# Results (OriCon3D):
-
-## VGG19
-
-<img width="847" alt="image" src="https://github.com/DhyeyR-007/OriCon3D/assets/86003669/5e0fbe29-6744-48ab-a2bc-c32eb651781f">
-
-![](https://github.com/DhyeyR-007/OriCon3D/blob/main/Gifs%20and%20videos/VGG_gif.gif)
-
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## MOBILENETv2
-
-<img width="847" alt="image" src="https://github.com/DhyeyR-007/OriCon3D/assets/86003669/b686ec3c-92a0-4135-91c8-53103d8a2895">
-
-![](https://github.com/DhyeyR-007/OriCon3D/blob/main/Gifs%20and%20videos/MOBILE_gif.gif)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## EFFICIENTNETv2_s
-
-<img width="847" alt="image" src="https://github.com/DhyeyR-007/OriCon3D/assets/86003669/4cd424be-e5e7-4c0d-92d9-c678a1d720ba">
-
-![](https://github.com/DhyeyR-007/OriCon3D/blob/main/Gifs%20and%20videos/EFF_gif.gif)
-
 

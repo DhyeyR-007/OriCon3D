@@ -42,5 +42,6 @@ VGG19
 MOBILENETv2
 
 EFFICIENTNETv2_s
+![](https://github.com/DhyeyR-007/OriCon3D/blob/main/Gifs%20and%20videos/EFF_gif.gif)
 
 
